@@ -33,11 +33,13 @@ int main()
 			while(small<k)
 			{
 				small++;
-				d=++;
+				d++;
 			}
 			printf("%d",d);
 			small=0;
 			d=0;
 			c++;
 		}
+	}
+	}
 }
